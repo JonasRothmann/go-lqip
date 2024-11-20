@@ -1,4 +1,4 @@
-module go-lqip
+module github.com/JonasRothmann/go-lqip
 
 go 1.13
 
